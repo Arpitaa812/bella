@@ -18,6 +18,6 @@ int main()
         }
         else {odd++;}
     }
-    cout<<"total Even : "<<even<<endl;
+    cout<<" Even : "<<even<<endl;
     cout<<"Total odd : " <<odd << endl;
 }
